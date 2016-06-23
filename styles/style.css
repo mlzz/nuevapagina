@@ -1,0 +1,39 @@
+body{
+  border: 2px solid black;
+  background-image: url("fondo.jpg");
+  background-size: cover;
+
+}
+header{
+  text-align: center;
+  color: #CBA1E4;
+}
+h2{
+  text-align: right;
+}
+#loto{
+  text-align: center;
+  margin: 5px;
+  border: 10px solid pink;
+}
+
+.imagen{
+  width: 200px;
+}
+#textoloto{
+  text-align: left;
+
+}
+
+#orq{
+  text-align: center;
+  margin: 5px;
+  border: 10px solid violet;
+}
+
+#textoorq{
+  text-align: left;
+}
+.link{
+  width: 50px;
+}
